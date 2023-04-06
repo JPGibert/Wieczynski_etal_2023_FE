@@ -1,6 +1,6 @@
 README
 
-Repository for: Wieczynski, D.J., H. V. Moeller, & J.P. Gibert. 2023. Mixotrophic microbes create carbon tipping points under warming. (In press, Functional Ecology)
+Repository for: Wieczynski, D.J., H. V. Moeller, & J.P. Gibert. 2023. Mixotrophic microbes create carbon tipping points under warming. Functional Ecology
 
 To access all files, download Wieczynski_etal_2023_FE_Master.tar.gz to your home directory and double click to open. The zip file will open automatically and all files will be available for use.
 
